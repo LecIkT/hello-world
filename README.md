@@ -1,3 +1,5 @@
 # hello-world
 Clase de dani
-Pues aqui estamos probando esto
+
+Pues ahora hemos borrado la linea de arriba claro que si
+ooooh nooooo
